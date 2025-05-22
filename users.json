@@ -1,0 +1,31 @@
+{
+    "teste1": {
+        "password": "1212",
+        "age": 18,
+        "acertos": 2,
+        "erros": 0,
+        "tempo": 12.166517496109009
+    },
+    "teste2": {
+        "password": "123",
+        "age": 30,
+        "acertos": 0,
+        "erros": 0,
+        "tempo": 0
+    },
+    "teste3": {
+        "password": "1234",
+        "age": 25,
+        "acertos": 0,
+        "erros": 0,
+        "tempo": 0
+    },
+    "teste4": {
+        "password": "12345",
+        "age": 27,
+        "acertos": 3,
+        "erros": 1,
+        "tempo": 18.17526149749756
+    }
+   
+}
